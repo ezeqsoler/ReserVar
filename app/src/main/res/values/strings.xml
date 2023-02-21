@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ReserVar</string>
+    <string name="messages_title">Messages</string>
+    <string name="notifications_title">Notifications</string>
+    <string name="home_title">Home</string>
+    <string name="parking_lot_1_button_label">Parking Lot 1</string>
+    <string name="parking_lot_2_button_label">Parking Lot 2</string>
+    <string name="parking_lot_3_button_label">Parking Lot 3</string>
+    <string name="counter_text">%d/%d</string>
+
+</resources>
